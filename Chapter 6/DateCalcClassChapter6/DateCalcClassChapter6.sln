@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DateCalcClassChapter6", "DateCalcClassChapter6\DateCalcClassChapter6.vbproj", "{EEE222E3-7CD9-4FEF-818A-1A34B901508D}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DateCalcShell", "DateCalcShell\DateCalcShell.vbproj", "{E657787E-0626-47C5-A0F5-7899F8B220EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEE222E3-7CD9-4FEF-818A-1A34B901508D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE222E3-7CD9-4FEF-818A-1A34B901508D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE222E3-7CD9-4FEF-818A-1A34B901508D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE222E3-7CD9-4FEF-818A-1A34B901508D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E657787E-0626-47C5-A0F5-7899F8B220EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E657787E-0626-47C5-A0F5-7899F8B220EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E657787E-0626-47C5-A0F5-7899F8B220EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E657787E-0626-47C5-A0F5-7899F8B220EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
